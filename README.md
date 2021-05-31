@@ -24,8 +24,10 @@ __________________________________________
 
 __________________________________________
 
-### 💡  PROJECTS
+### 💚  PROJECTS I'M PROUD OF
 
-- 📱 [Google Play Store Analysis](https://github.com/Salevo/Google-Play-Store-Analysis): Using machine learning I tested if it is possible to predict an Apps' ranking on the Google Play Store with the data available on it. Further I used review sentiment analysis to determine the pain points of users with an app.
-- 🎧 [Music Recommendation App](https://github.com/Salevo/Gnoosic-music-recommendation-app): Using web-scraping and the Spotipy-API to train a machine learning algorithm to be able to give valuable music recommendations upon user input of a song they already know and like.
-- 👩🏻‍💻 [User Data Analysis](https://github.com/Salevo/User-Data-Analysis): Analysing user data of an app in order to determine technical and advertising recommendations for the company. Using clustering techniques to figure out if the user-base is the desired one. (Due to data privacy, data and code is not included, the results however can be seen in the final presentation).
+💡 [Google Play Store Analysis](https://github.com/Salevo/Google-Play-Store-Analysis): Using machine learning I tested if it is possible to predict an Apps' ranking on the Google Play Store with the data available on it. Further I used review sentiment analysis to determine the pain points of users with an app.
+
+💡 [Music Recommendation App](https://github.com/Salevo/Gnoosic-music-recommendation-app): Using web-scraping and the Spotipy-API to train a machine learning algorithm to be able to give valuable music recommendations upon user input of a song they already know and like.
+
+💡 [User Data Analysis](https://github.com/Salevo/User-Data-Analysis): Analysing user data of an app in order to determine technical and advertising recommendations for the company. Using clustering techniques to figure out if the user-base is the desired one. (Due to data privacy, data and code is not included, the results however can be seen in the final presentation).
