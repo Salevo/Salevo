@@ -6,7 +6,7 @@ I'm an experienced senior marketing manager specialized in building affiliate & 
 
 Now I'm passionately learning data analytics in order to understand data better and be able to make connections and find recommendations I wasn't able to find before. I just finished a Data Analytics Bootcamp at Ironhack spanning skills like Python (Pandas, NumPy, Seaborn, Scikit-Learn), Inferential Statistics & predictive modeling, MySQL, Data wrangling & analyzing, Web/API scraping, data visualisation (Tableau, Plotly, Seaborn) and Machine Learning.
 
-I hope to further find a job in marketing data analytics to combine my knowledge and newfound passion.
+I now combine all my skills as Lead Account Manager for Advertace in order to push and grow ecommerce brands. 
 
 __________________________________________
 
